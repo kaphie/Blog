@@ -1,10 +1,10 @@
 body {
-    background: #02576c;
-    color: #333333;
+    background: #5ddf13;
+    color: #ff0e06;
   }
   
   .navbar{
-  background: #02576c;
+  background: #ecd71b;
   }
   body{
   margin-top:10%;
@@ -40,7 +40,7 @@ body {
   }
   
   .article-title {
-    color: #444444;
+    color:rebeccapurple;
   }
   
   a.article-title:hover {
