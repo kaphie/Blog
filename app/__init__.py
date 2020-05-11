@@ -11,6 +11,7 @@ db = SQLAlchemy(app)
 login_manager = LoginManager()
 login_manager.init_app(app)
 bootstrap = Bootstrap(app)
+db.init_app(app)
 mail = Mail(app)
 login_manager.login_view = 'auth.login'
 login_manager.session_protection = 'strong'
