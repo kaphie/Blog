@@ -90,7 +90,7 @@ After extracting the files,
 
 
 ## License
-> MIT License &copy; 2019 Victor Waichigo
+> MIT License &copy; 2020 Kaphie
 
 ## Collaborate
 To collaborate, reach me on [bkafrika144@gmail.com]()
