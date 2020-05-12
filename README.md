@@ -6,7 +6,9 @@ Blog is a personal blogging website where you can create and share your opinions
 
 
 ## Screenshot
-<img src="">
+<img src="https://github.com/kaphie/Blog/blob/master/app/static/assests/screencapture-blog718-herokuapp-home-2020-05-12-17_22_30.png">
+
+<img src="https://github.com/kaphie/Blog/blob/master/app/static/assests/screencapture-blog718-herokuapp-signup-2020-05-12-17_21_52.png">
 
 
 ## Requirements
