@@ -13,7 +13,7 @@ class Config:
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     SENDGRID_API_KEY=os.environ.get('SENDGRID_API_KEY')
     DEFAULT_SENDGRID_SENDER =  os.environ.get('DEFAULT_SENDGRID_SENDER')
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://user:tyrrelhaslay718@localhost/blog'
+    SQLALCHEMY_DATABASE_URI = 'postgres://sxhyfsrgirzqtx:02673b1019b23b437ab2ef728e47d819e23a21ec990c95fba7d97bb6ed460f37@ec2-34-230-149-169.compute-1.amazonaws.com:5432/dapepg93sbnl39'
 
     #  email configurations
     MAIL_SERVER = 'smtp.gmail.com'
